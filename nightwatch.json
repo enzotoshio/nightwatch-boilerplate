@@ -1,0 +1,54 @@
+{
+  "src_folders": ["tests"],
+  "webdriver": {
+    "start_process": true
+  },
+  "test_settings": {
+    "default": {
+      "webdriver": {
+        "port": 9515,
+        "server_path": "node_modules/.bin/chromedriver",
+        "cli_args": ["--verbose"]
+      },
+      "desiredCapabilities": {
+        "browserName": "chrome",
+        "loggingPrefs": {
+          "driver": "INFO",
+          "server": "OFF",
+          "browser": "INFO"
+        }
+      }
+    },
+    "chrome": {
+      "webdriver": {
+        "port": 9515,
+        "server_path": "node_modules/.bin/chromedriver",
+        "cli_args": ["--verbose"]
+      },
+      "desiredCapabilities": {
+        "browserName": "chrome",
+        "loggingPrefs": {
+          "driver": "INFO",
+          "server": "OFF",
+          "browser": "INFO"
+        }
+      }
+    },
+    "selenium_server": {
+      "selenium": {
+        "start_process": true,
+        "host": "localhost",
+        "server_path": "./bin/selenium-server-standalone-3.10.0.jar",
+        "cli_args": {
+          "webdriver.gecko.driver": "./bin/geckodriver-0.23",
+          "webdriver.chrome.driver": "./bin/chromedriver-2.32"
+        }
+      },
+      "desiredCapabilities": {
+        "browserName": "firefox",
+        "acceptSslCerts": true
+      }
+    }
+  },
+  "test_runner": "mocha"
+}

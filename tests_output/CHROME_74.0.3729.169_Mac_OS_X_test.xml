@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="test"
+    errors="0" failures="1" hostname="" id="" package="test" skipped="0"
+    tests="1" time="6.964" timestamp="">
+  
+    <testcase name="Demo test Google" classname="test" time="6.964" assertions="3">
+
+    
+
+      <failure message="Testing if element &lt;#main&gt; contains text: &#34;Night Watch&#34; in 1000 ms. - expected [0;32m&#34;Night Watch&#34;[0m but got: [0;31m&#34;Zoekmodi
+AlleAfbeeldingenNieuwsVideo&#39;sShoppingMeer
+Instellingen
+Tools
+Ongeveer 12.400.000 resultaten (0,29 seconden) 
+Looking for results in English?
+Change to English
+Nederlands blijven gebruiken
+Taalinstellingen
+
+
+Een privacyherinnering van Google
+In overeenstemming met wetgeving ten aanzien van gegevensbescherming vragen we je even de tijd te nemen de belangrijkste punten van ons Privacybeleid door te nemen. Dit beslaat alle Google-services en beschrijft hoe we gegevens gebruiken en welke mogelijkheden je hebt. Je moet dit vandaag nog doen.
+MIJ LATER HERINNEREN
+NU BEKIJKEN
+Zoekresultaten
+Webresultaten
+LivAssured | NightWatch
+https://www.nightwatch.nl/
+Detecteert zware epilepsie aanvallen tijdens de slaap en waarschuwt ouders of hulpverleners op afstand.
+De Nightwatch | Hulpmiddelen | (Poli)kliniek voor epilepsie | SEIN
+https://www.sein.nl/polikliniek-voor-epilepsie/hulpmiddelen/.../de-nightwatch/
+De Nightwatch is een nieuw alarmsysteem voor epileptische aanvallen. Een klein bandje om de bovenarm signaleert wijzigingen in hartslag en bewegingen, ...
+Nightwatch - Sein
+https://www.sein.nl/polikliniek-voor-epilepsie/.../de-nightwatch-vraag-en-antwoord/
+In oktober werden de resultaten van een nieuw epilepsie alarmsysteem, de NightWatch, gepubliceerd in het toonaangevende tijdschrift Neurology.
+NightWatch - detectiesysteem voor klinisch urgente epileptische ...
+https://crowdaboutnow.nl/campagnes/denightwatch
+Er zijn nog geen goede detectie middelen beschikbaar voor nachtelijke klinisch urgente epileptische aanvallen bij kinderen. Hierdoor ervaren veel ouders ...
+De NightWatch waarschuwt je bij nachtelijke epilepsie aanvallen
+https://www.huis-van-morgen.nl/.../de-nightwatch-waarschuwt-je-bij-nachtelijke-epile...
+De NightWatch is een comfortabele armband die gedurende de hele nacht nauwlettend de hartslag en beweging van de drager meet, terwijl deze in bed ligt.
+NightWatch | Zorginnovatie
+https://www.zorginnovatie.nl/innovaties/nightwatch-0
+NightWatch. Een uniek waarschuwingssysteem voor nachtelijke epilepsie aanvallen bij kinderen en volwassen met epilepsie. Zuid-Holland.
+Nightwatch ervaringen - Epilepsie Vereniging Nederland
+www.epilepsievereniging.nl › Nieuws
+24 jan. 2019 - Sinds kort is de Nightwatch beschikbaar. Het apparaat voor nachtelijke aanvalsdetectie bij mensen met epilepsie. Gedurende de ontwikkeling ...
+Livassured - Nightwatch | npkdesign
+https://npk.nl/project/livassured-nightwatch/
+Livassured – NightWatch. Simpel, comfortabel en geruststellend. Een berucht voorbeeld van een ziekte met onverwachte aanvallen is epilepsie. Patiënten ...
+Investeerders stoppen geld in NightWatch-detectiesysteem epilepsie ...
+https://www.icthealth.nl/.../investeerders-stoppen-geld-in-nightwatch-detectiesysteem-e...
+21 sep. 2018 - Oost NL, Holland Venture en Health Innovations stoppen geld in LivAssured. Deze startup heeft het NightWatch-systeem ontwikkeld in ...
+Aanvalsdetectie Nightwatch
+https://www.aanvalsdetectie.nl/Nightwatch/Nightwatch.shtml
+Nightwatch De Nightwatch is een aanvalsdetectie apparaat dat alarmeert bij nachtelijke klinisch belangrijke aanvallen (d.w.z. tonisch clonische, langdurige ...
+Zoekopdrachten gerelateerd aan nightwatch
+kosten nightwatch
+nightwatch kopen
+nightwatch epilepsie prijs
+nightwatch epilepsie kosten
+nightwatch epilepsie kopen
+nightwatch prijs
+nightwatch vergoeding
+nightwatch drink
+Paginanavigatie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Volgende
+Links in voettekst
+Nederland Amsterdam-Zuid, Amsterdam - Gebaseerd op je internetadres - Precieze locatie gebruiken - Meer informatie
+HelpFeedback verzendenPrivacyVoorwaarden&#34;[0m">    at Object.Demo test Google (/Users/eshida/workspace/nightwatch/tests/test.js:10:15)
+    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+
+    <failure message="    at Object.Demo test Google (/Users/eshida/workspace/nightwatch/tests/test.js:10:15)">    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
