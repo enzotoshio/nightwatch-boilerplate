@@ -1,10 +1,10 @@
-import Enum from './enum';
+import { home as homeUrl } from './enums/urls';
 
 describe('Google demo test for Mocha', function() {
   describe('with Nightwatch', function() {
     it('uses BDD to run the Google simple test', function(browser) {
       browser
-        .url('https://google.com')
+        .url(homeUrl)
         .expect.element('body')
         .to.be.present.before(1000);
 

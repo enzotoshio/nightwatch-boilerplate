@@ -11,7 +11,12 @@ module.exports = {
   parserOptions: {
     parser: 'babel-eslint',
   },
-  extends: ['airbnb-base', 'plugin:prettier/recommended', 'prettier'],
+  extends: ['airbnb-base', 'plugin:prettier/recommended'],
   plugins: ['prettier'],
-  rules: {},
+  rules: {
+    'prettier/prettier': 'error',
+    'prefer-arrow-callback': 'off',
+    'func-names': 'off',
+    'import/no-extraneous-dependencies': ['error', { devDependencies: true }],
+  },
 };

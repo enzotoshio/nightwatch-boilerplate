@@ -2,5 +2,5 @@ module.exports = {
   singleQuote: true,
   printWidth: 100,
   arrowParens: 'always',
-  trailingComma: 'es5'
+  trailingComma: 'es5',
 };
